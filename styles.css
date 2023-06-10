@@ -1,1 +1,19 @@
 /* your code */
+.table{
+	border-radius:2px;
+}
+.head{
+	background-color:blue;
+}
+.table-1{
+	background-color:whitesmoke;
+}
+.table-2{
+	background-color:lightblue;
+}
+.table-3{
+	background-color:whitesmoke;
+}
+.table-4{
+	background-color:lightblue;
+}
